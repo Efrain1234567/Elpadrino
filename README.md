@@ -1,1 +1,2 @@
 # Elpadrino
+ejecutar(inicio)<ajustes> 
